@@ -15,6 +15,7 @@
 - "How can the Scottish space sector become the most sustainable in the world?" at <a href="https://www.ed.ac.uk/careers/students/undergraduates/build-experience/changeprogramme">Students as Change Agents</a><br>
 - CTF competition: <a href="https://pwned.sigint.mx/">pwnEd 3</a><br>
 - Tutoring/Coordination at <a href="https://web.inf.ed.ac.uk/infweb/admin/communications/outreach-public-engagement/informatics-schools-tutoring-scheme">Informatics Tutoring Scheme</a><br>
+- Responsive Web Design Course at <a href="https://www.freecodecamp.org/learn/responsive-web-design/">FreeCodeCamp.org</a><br>
 </p>
 
 <div>
