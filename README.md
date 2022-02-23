@@ -20,7 +20,7 @@
 <div>
   <p align="center">
     _________________________________________________________________________________________<br>
-    <h2 align="center">Take Some Stats:</h2>
+    <h3 align="center">Take Some Stats:</h3>
   </p>
   
   <p align="center">
@@ -28,7 +28,12 @@
   </p>
   
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentelora&title_color=FFBF00&text_color=FFFFFF&bg_color=000000&hide_border=TRUE&layout=compact&card_width=445&hide_title=TRUE" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentelora&title_color=FFBF00&text_color=FFFFFF&bg_color=000000&hide_border=TRUE&layout=compact&card_width=445&hide_title=TRUE" /><br>
+  _________________________________________________________________________________________<br>
+    <h3 align="center">Social Media:</h3>
   </p>
 </div>
 
+<p align="center">
+    <a href="https://linktr.ee/vicentelora"><img align="center" src="https://img.icons8.com/color/480/linktree.png" alt="Linktree" width="200" height="200"/></a>
+</p>
