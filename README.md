@@ -10,9 +10,8 @@
 <h3 align="center">What I'm working on atm:</h3>
 
 <p align="center">
-- Hardware Interactive RPG<br>
-- First Public Album<br>
-- Responsive Web Design Course at <a href="https://www.freecodecamp.org/learn/responsive-web-design/">FreeCodeCamp.org</a><br>
+- FASt - FEUP Autonamous SailboaT<br>
+- First Eletronic Music Album<br>
 </p>
 
 <div>
