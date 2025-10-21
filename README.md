@@ -3,7 +3,7 @@
 <h2 align="center">My name is Vicente Lora and I'm a Developer with a passion for the Creative Process.</h2>
 
 <p align="center">
-  I usully orbits around Space, AI, Music Production. Mostly tinkering here and there to make my ideas a reality.
+  I usually orbit around Music Production, AI & WebDev. Mostly tinkering here and there to make my ideas a reality.
   _________________________________________________________________________________________
 </p>
 
