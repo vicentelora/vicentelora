@@ -1,26 +1,27 @@
-<h1 align="center">☄️ Hi there! 🪐</h1>
+<h1 align="center">⬛ Hi there! ⬜</h1>
 
-<h2 align="center">My name is Vicente Lora and I'm a Master's student at The University of Porto.</h2>
+<h2 align="center">My name is Vicente Lora and I'm a Developer with a passion for the Creative Process.</h2>
 
 <p align="center">
-  Most of my world orbits around Space, AI, Cognitive Science, Music Production and tinkering here and there to make my ideas a reality.
+  I usully orbits around Space, AI, Music Production. Mostly tinkering here and there to make my ideas a reality.
   _________________________________________________________________________________________
 </p>
 
 <h3 align="center">What I'm working on atm:</h3>
 
 <p align="center">
-- FASt - FEUP Autonamous SailboaT<br>
-- First Eletronic Music Album<br>
+- OMI - Digital Instruments Making Startup<br>
+- Eletronic Music Album<br>
+- Learning GCloud<br>
 </p>
 
 <div>
   <p align="center">
     _________________________________________________________________________________________<br>
-    <h3 align="center">Social Media:</h3>
+    <h3 align="center">\Give me a visit/</h3>
   </p>
 </div>
 
 <p align="center">
-    <a href="https://linktr.ee/vicentelora"><img align="center" src="https://img.icons8.com/color/480/linktree.png" alt="Linktree" width="200" height="200"/></a>
+    <a href="https://vicentelora.me"><img align="center" src="https://www.vicentelora.me/back/imgs/VL.png" alt="Website" width="200" height="200"/></a>
 </p>
